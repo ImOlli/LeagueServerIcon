@@ -1,0 +1,4 @@
+name: LeagueServerIcon
+version: '${project.version}'
+main: de.imolli.LeagueServerIcon
+api-version: '1.20'
