@@ -1,4 +1,6 @@
 name: LeagueServerIcon
 version: '${project.version}'
-main: de.imolli.LeagueServerIcon
+main: de.imolli.LeagueServerIconPlugin
 api-version: '1.20'
+
+author: Oliver Stahl(ImOlli)
